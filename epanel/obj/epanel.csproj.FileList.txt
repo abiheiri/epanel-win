@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\epanel.Form1.resources
+obj\Debug\epanel.Properties.Resources.resources
+obj\Debug\epanel.csproj.GenerateResource.Cache
+bin\Debug\MRepanel.exe
+bin\Debug\MRepanel.pdb
+obj\Debug\MRepanel.exe
+obj\Debug\MRepanel.pdb

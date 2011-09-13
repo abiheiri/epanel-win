@@ -1,0 +1,14 @@
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\bin\Release\MRepanel.exe.config
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\bin\Release\MRepanel.exe.manifest
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\bin\Release\MRepanel.application
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\bin\Release\MRepanel.exe
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\bin\Release\MRepanel.pdb
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\ResolveAssemblyReference.cache
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\epanel.Form1.resources
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\epanel.Properties.Resources.resources
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\epanel.csproj.GenerateResource.Cache
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\MRepanel.TrustInfo.xml
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\MRepanel.exe.manifest
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\MRepanel.application
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\MRepanel.exe
+Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Release\MRepanel.pdb
