@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("epanel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("abiheiri@gmail.com")]
+[assembly: AssemblyCompany("al@forgottheaddress.com")]
 [assembly: AssemblyProduct("epanel")]
 [assembly: AssemblyCopyright("2010")]
 [assembly: AssemblyTrademark("")]

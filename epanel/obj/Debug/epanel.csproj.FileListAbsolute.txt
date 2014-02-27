@@ -12,3 +12,18 @@ Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\bin\Debug\MRepanel.app
 Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Debug\MRepanel.TrustInfo.xml
 Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Debug\MRepanel.exe.manifest
 Z:\Visual Studio 2008\Projects\DEVPowerPack\epanel\epanel\obj\Debug\MRepanel.application
+Z:\_EXTENDED\epanel\epanel\obj\Debug\ResolveAssemblyReference.cache
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.Form1.resources
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.Properties.Resources.resources
+Z:\_EXTENDED\epanel\epanel\obj\Debug\GenerateResource.read.1.tlog
+Z:\_EXTENDED\epanel\epanel\obj\Debug\GenerateResource.write.1.tlog
+Z:\_EXTENDED\epanel\epanel\bin\Debug\epanel.exe.config
+Z:\_EXTENDED\epanel\epanel\bin\Debug\epanel.exe.manifest
+Z:\_EXTENDED\epanel\epanel\bin\Debug\epanel.application
+Z:\_EXTENDED\epanel\epanel\bin\Debug\epanel.exe
+Z:\_EXTENDED\epanel\epanel\bin\Debug\epanel.pdb
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.TrustInfo.xml
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.exe.manifest
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.application
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.exe
+Z:\_EXTENDED\epanel\epanel\obj\Debug\epanel.pdb

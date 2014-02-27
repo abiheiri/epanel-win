@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epanel", "epanel\epanel.csproj", "{1A9F315B-87C1-4511-B9A1-D048D7FCC93A}"
 EndProject
 Global

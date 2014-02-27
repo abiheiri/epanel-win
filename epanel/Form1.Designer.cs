@@ -81,9 +81,6 @@ namespace epanel
             // 
             // lnkTray
             // 
-            this.lnkTray.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
             this.lnkTray.BackColor = System.Drawing.SystemColors.Control;
             this.lnkTray.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lnkTray.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -376,9 +373,7 @@ namespace epanel
             // 
             // lnkFont
             // 
-            this.lnkFont.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.lnkFont.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lnkFont.BackColor = System.Drawing.SystemColors.Control;
             this.lnkFont.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lnkFont.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -396,9 +391,7 @@ namespace epanel
             // 
             // lnkExport
             // 
-            this.lnkExport.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.lnkExport.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lnkExport.BackColor = System.Drawing.SystemColors.Control;
             this.lnkExport.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lnkExport.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -416,9 +409,7 @@ namespace epanel
             // 
             // lnkImport
             // 
-            this.lnkImport.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.lnkImport.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lnkImport.BackColor = System.Drawing.SystemColors.Control;
             this.lnkImport.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lnkImport.Cursor = System.Windows.Forms.Cursors.Hand;
